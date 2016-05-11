@@ -1,0 +1,9 @@
+.direnv
+/direnv
+/direnv.test
+/dist
+/site
+/test/allow
+/test/config/direnv/allow
+man/*.html
+*.sw?
